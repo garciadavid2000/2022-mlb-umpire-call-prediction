@@ -18,4 +18,4 @@ This repository has a few key components
 
 3. The slides for the presentation can be found in `slides.pdf`
 
-4. The video presentation can be found here: []()
+4. The video presentation can be found here: [https://youtu.be/kNHs7AgAczA?si=WFBWt-RiXm11PutL](https://youtu.be/kNHs7AgAczA?si=WFBWt-RiXm11PutL)
